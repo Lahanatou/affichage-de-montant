@@ -9,3 +9,4 @@ function calc() {
     console.log(typeof(price));
     console.log(typeof(1));
   }
+  
